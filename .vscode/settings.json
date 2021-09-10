@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "imagelib.h": "c",
+        "time.h": "c"
+    }
+}
